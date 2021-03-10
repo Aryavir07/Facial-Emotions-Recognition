@@ -3,8 +3,8 @@
 ## Project Overview
 - The aim of project is to classify people's emotions based on their face images.
 - Project is divided into two parts which is combined to give output:
-				 - 1. Facial key points detection model
-				 - 2. Facial expression detection model
+- 1. Facial key points detection model
+- 2. Facial expression detection model
 - There is around 20000 facial images, with their associated facial expression lables and 2000 images with their facial key-point annotations.
 - To train a model that automatically shows the people emotions and expression.
 
@@ -26,11 +26,11 @@ How?
 ## Model 2: Facial Expression Detection
 - This model classifies people's emotion.
 - Data contains images that belongs to five categories:
-	- **0 -> Angry**
-	- **1 -> Disgust**
-	- **2 -> Sad**
-	- **3 -> Happy**
-	- **4 -> Surprise**
+-  0 : Angry 
+-  1 : Disgust
+-  2 : Sad
+-  3 : Happy
+-  4 : Surprise
 
 
 ![download](https://user-images.githubusercontent.com/42632417/110667195-0ae75900-81f0-11eb-835a-79a92334bf47.png)
