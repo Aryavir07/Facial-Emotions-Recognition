@@ -41,6 +41,8 @@ Dataset Source: [Kaggle](http://https://www.kaggle.com/c/challenges-in-represent
 
 ![pic](https://user-images.githubusercontent.com/42632417/110667735-91039f80-81f0-11eb-9ef4-7dc7bcbdf9a7.GIF)
 
+- RESNET(RESIDUAL NETWORK) as deep learning model
+Resnet includes skip connections feautres which enables training of 152 layers without vanishing gradient issue.
 
 
 ## Methodology Flowchart
