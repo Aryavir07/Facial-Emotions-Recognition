@@ -67,10 +67,9 @@ The figure below shows flowchart of our proposed methedology:
 
 
 ## Final Result
-Following figure show
+
 ![download](https://user-images.githubusercontent.com/42632417/110671267-5439a780-81f4-11eb-9725-3e42d60e094d.png)
 
- Note: Accuracy can be increased if trained over more number of epochs.
 
 # References:
 - https://www.youtube.com/channel/UC76VWNgXnU6z0RSPGwSkNIg
