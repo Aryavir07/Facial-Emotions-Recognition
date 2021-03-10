@@ -3,8 +3,11 @@
 ## Project Overview
 - The aim of project is to classify people's emotions based on their face images.
 - Project is divided into two parts which is combined to give output:
-				 1. Facial key points detection model
-				 2. Facial expression detection model
+				 - 1. Facial key points detection model
+				 - 2. Facial expression detection model
+- There is around 20000 facial images, with their associated facial expression lables and 2000 images with their facial key-point annotations.
+- To train a model that automatically shows the people emotions and expression.
+
 ## Model 1: Key Facial Point Detection
 - Created a deep learning model bases on convolutional neural network (CNN) and Residual Block to predict facial keypoints.
 - Dataset contsists of x and y coordinates of 15 facial key points.
