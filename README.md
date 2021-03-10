@@ -52,7 +52,9 @@ The figure below shows flowchart of our proposed methedology:
 |   2   |   0.79    |    0.83   |   0.81    |   312   |
 |   3   |   0.92    |    0.94   |   0.93    |   434   |
 |   4   |   0.96    |    0.88   |   0.91    |   208   | 
-| accuracy|         |           |           |         |         
+| accuracy|         |           |   0.86    |  1229   | 
+|macro avg| 0.89    |  0.83     | 0.85      | 1229    |
+|weighted avg|0.86   |   0.86   |   0.86    | 1229    |
 
 
 
