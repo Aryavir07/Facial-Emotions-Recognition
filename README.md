@@ -5,8 +5,6 @@
 - Project is divided into two parts which is combined to give output:
 				 1. Facial key points detection model
 				 2. Facial expression detection model
-
-------------
 ## Model 1: Key Facial Point Detection
 - Dataset Source: [Kaggle](http://https://www.kaggle.com/c/facial-keypoints-detection/data "Kaggle")
 
@@ -17,8 +15,6 @@ How?
 **Input Image -> Trained Key Facial Points -> Detector Model**
 
 ![dsBuffer bmp](https://user-images.githubusercontent.com/42632417/110666470-5ea57280-81ef-11eb-8113-cc9a9690587d.png)
-------------
-
 
 ## Model 2: Facial Expression Detection
 - This model classifies people's emotion.
@@ -40,12 +36,10 @@ Dataset Source: [Kaggle](http://https://www.kaggle.com/c/challenges-in-represent
 
 ![pic](https://user-images.githubusercontent.com/42632417/110667735-91039f80-81f0-11eb-9ef4-7dc7bcbdf9a7.GIF)
 
-------------
-
 
 
 ## Methodology Flowchart
-------------
+
 The figure below shows flowchart of our proposed methedology:
 
 ![pic](https://user-images.githubusercontent.com/42632417/110668836-bba22800-81f1-11eb-8469-99c64409f098.GIF)
