@@ -57,11 +57,11 @@ The figure below shows flowchart of our proposed methedology:
 |weighted avg|0.86   |   0.86   |   0.86    | 1229    |
 
 
-## Visualization Final Result
+## Final Result
 Following figure show
 ![download](https://user-images.githubusercontent.com/42632417/110671267-5439a780-81f4-11eb-9725-3e42d60e094d.png)
 
-### Note: Accuracy can be increased if trained over more number of epochs.
+ Note: Accuracy can be increased if trained over more number of epochs.
 
-# Reference:
--
+# References:
+- https://www.youtube.com/channel/UC76VWNgXnU6z0RSPGwSkNIg
