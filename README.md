@@ -15,8 +15,7 @@
 - Dataset contsists of x and y coordinates of 15 facial key points
 **Input Image -> Trained Key Facial Points -> Detector Model**
 
-Photo goes here
-
+![dsBuffer bmp](https://user-images.githubusercontent.com/42632417/110666470-5ea57280-81ef-11eb-8113-cc9a9690587d.png)
 ------------
 
 
