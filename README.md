@@ -3,8 +3,8 @@
 ## Project Overview
 - The aim of project is to classify people's emotions based on their face images.
 - Project is divided into two parts which is combined to give output:
-				- 1. Facial key points detection model
-				- 2. Facial expression detection model
+				 1. Facial key points detection model
+				 2. Facial expression detection model
 
 ------------
 ## Model 1: Key Facial Point Detection
@@ -36,7 +36,10 @@ Dataset Source: [Kaggle](http://https://www.kaggle.com/c/challenges-in-represent
 
 ### How?
 - **Input Image (48x48) -> Classifier -> Target Classes**
-image goes here
+
+
+![pic](https://user-images.githubusercontent.com/42632417/110667735-91039f80-81f0-11eb-9ef4-7dc7bcbdf9a7.GIF)
+
 ------------
 
 
