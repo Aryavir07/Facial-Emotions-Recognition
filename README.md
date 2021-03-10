@@ -47,9 +47,9 @@ The figure below shows flowchart of our proposed methedology:
 ## Classification Report
 |	| precision |    recall | f1-score  | support |
 |:--:	| :---:     |   :---:   | :---:	    | :---:   |
-   0        0.78      0.76      0.77       249
-   1        1.00      0.73      0.84        26
-   2        0.79      0.83      0.81       312
+|   0   |   0.78    |    0.76   |   0.77    |   249   | 
+|   1   |   1.00    |    0.73   |   0.84    |    26   |
+   2        0.79      0.83      0.81       312  
    3        0.92      0.94      0.93       434
    4        0.96      0.88      0.91       208
 
