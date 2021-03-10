@@ -22,17 +22,17 @@
 ## Model 2: Facial Expression Detection
 - This model classifies people's emotion.
 - Data contains images that belongs to five categories:
-> **0 -> Angry**
-> **1 -> Disgust**
-> **2 -> Sad**
-> **3 -> Happy**
-> **4 -> Surprise**
+	- **0 -> Angry**
+	- **1 -> Disgust**
+	- **2 -> Sad**
+	- **3 -> Happy**
+	- **4 -> Surprise**
 
 
 Dataset Source: [Kaggle](http://https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data "Kaggle")
 photo goes here
 **How?**
-**Input Image (48x48) -> Classifier -> Target Classes**
+- **Input Image (48x48) -> Classifier -> Target Classes**
 image goes here
 ------------
 
