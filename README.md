@@ -46,6 +46,7 @@ Dataset Source: [Kaggle](http://https://www.kaggle.com/c/challenges-in-represent
 
 ## Methodology Flowchart
 ------------
+The figure below shows flowchart of our proposed methedology:
 
 ![pic](https://user-images.githubusercontent.com/42632417/110668444-53ebdd00-81f1-11eb-93d0-349ea932079c.GIF)
 
