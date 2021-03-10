@@ -6,6 +6,10 @@
 				 1. Facial key points detection model
 				 2. Facial expression detection model
 ## Model 1: Key Facial Point Detection
+- Created a deep learning model bases on convolutional neural network (CNN) and Residual Block to predict facial keypoints.
+- Dataset contsists of x and y coordinates of 15 facial key points.
+- Input images are 96x96 pixels.
+- Images consits of only one color channel i.e images are grayscaled.
 - Dataset Source: [Kaggle](http://https://www.kaggle.com/c/facial-keypoints-detection/data "Kaggle")
 
 ![pic1](https://user-images.githubusercontent.com/42632417/110663048-1f295700-81ec-11eb-87f8-9b424fb2141f.png)
