@@ -31,7 +31,7 @@ How?
 
 
 Dataset Source: [Kaggle](http://https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data "Kaggle")
-photo goes here
+![download](https://user-images.githubusercontent.com/42632417/110667195-0ae75900-81f0-11eb-835a-79a92334bf47.png)
 **How?**
 - **Input Image (48x48) -> Classifier -> Target Classes**
 image goes here
