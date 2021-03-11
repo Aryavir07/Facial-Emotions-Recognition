@@ -65,6 +65,8 @@ The figure below shows flowchart of our proposed methedology:
 |macro avg| 0.89    |  0.83     | 0.85      | 1229    |
 |weighted avg|0.86   |   0.86   |   0.86    | 1229    |
 
+## Performance of the model
+![download](https://user-images.githubusercontent.com/42632417/110739242-c93dc900-8256-11eb-9218-2de1909aaa25.png) ![download](https://user-images.githubusercontent.com/42632417/110739261-d1960400-8256-11eb-8744-32c6e4862207.png)
 
 ## Final Result
 
