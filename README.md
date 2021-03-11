@@ -74,6 +74,10 @@ The figure below shows flowchart of our proposed methedology:
 
 ### Dataset full : https://drive.google.com/drive/folders/1lgB9ZouVrk9xuyiJ-dp4yR4GRXhrgJiS?usp=sharing
 
+## How to run?
+- Download dataset from above Gdrive link
+- clone repo
+- run Facial Expression Recognition.ipynb on colab/notebook.
 
 # References:
 - https://www.youtube.com/channel/UC76VWNgXnU6z0RSPGwSkNIg
