@@ -8,8 +8,6 @@
 - There is around 20000 facial images, with their associated facial expression lables and 2000 images with their facial key-point annotations.
 - To train a model that automatically shows the people emotions and expression.
 
-### Dataset full : https://drive.google.com/drive/folders/1lgB9ZouVrk9xuyiJ-dp4yR4GRXhrgJiS?usp=sharing
-
 ## Model 1: Key Facial Point Detection
 - Created a deep learning model bases on convolutional neural network (CNN) and Residual Block to predict facial keypoints.
 - Dataset contsists of x and y coordinates of 15 facial key points.
@@ -73,6 +71,8 @@ The figure below shows flowchart of our proposed methedology:
 ## Final Result
 
 ![download](https://user-images.githubusercontent.com/42632417/110671267-5439a780-81f4-11eb-9725-3e42d60e094d.png)
+
+### Dataset full : https://drive.google.com/drive/folders/1lgB9ZouVrk9xuyiJ-dp4yR4GRXhrgJiS?usp=sharing
 
 
 # References:
