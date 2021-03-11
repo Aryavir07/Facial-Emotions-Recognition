@@ -27,7 +27,7 @@ How?
 - This model classifies people's emotion.
 - Data contains images that belongs to five categories:
   | 0 : Angry |  1 : Disgust | 2 : Sad  | 3 : Happy | 4 : Surprise |
-
+  | :--:      | :--:         |  :--:    |  :--:      |  :--:       |
 
 ![download](https://user-images.githubusercontent.com/42632417/110667195-0ae75900-81f0-11eb-835a-79a92334bf47.png)
 
