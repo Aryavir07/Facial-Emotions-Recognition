@@ -9,7 +9,7 @@
 - To train a model that automatically shows the people emotions and expression.
 
 ## Model 1: Key Facial Point Detection
-- Created a deep learning model bases on convolutional neural network (CNN) and Residual Block to predict facial keypoints.
+- Created a deep learning model based on convolutional neural network (CNN) and Residual Block to predict facial keypoints.
 - Dataset contsists of x and y coordinates of 15 facial key points.
 - Input images are 96x96 pixels.
 - Images consits of only one color channel i.e images are grayscaled.
