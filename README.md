@@ -1,4 +1,4 @@
-# Facial-Expression-Recognition
+# Emotion Detection Using Facial Expression
 
 ## Project Overview
 - The aim of project is to classify people's emotions based on their face images.
